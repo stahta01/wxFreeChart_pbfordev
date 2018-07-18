@@ -20,7 +20,9 @@
     #include <wx/wx.h>
 #endif
 
+#ifndef wxOVERRIDE
 #define wxOVERRIDE override
+#endif
 
 // dll impexp macros. Thanks to Mike Sazonov
 #ifdef WXMAKINGDLL_FREECHART
