@@ -120,6 +120,7 @@ WXFREECHART_LIB_HEADERS =  \
 	include/wx/gantt/ganttsimpledataset.h \
 	include/wx/chartsplitpanel.h \
 	include/wx/chart.h \
+	include/wx/chartdc.h \
 	include/wx/bars/barplot.h \
 	include/wx/bars/barrenderer.h \
 	include/wx/plot.h \
@@ -248,6 +249,7 @@ WXFREECHART_DLL_HEADERS =  \
 	include/wx/gantt/ganttsimpledataset.h \
 	include/wx/chartsplitpanel.h \
 	include/wx/chart.h \
+	include/wx/chartdc.h \
 	include/wx/bars/barplot.h \
 	include/wx/bars/barrenderer.h \
 	include/wx/plot.h \
