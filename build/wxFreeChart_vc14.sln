@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxFreeChart", "wxFreeChart_vc14.vcxproj", "{A53CAAB8-0449-48F8-A751-80235104C669}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxFreeChart", "wxFreeChart.vcxproj", "{A53CAAB8-0449-48F8-A751-80235104C669}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
