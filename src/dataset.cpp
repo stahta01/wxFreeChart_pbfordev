@@ -145,8 +145,7 @@ void DatasetArray::Add(Dataset *dataset)
 
 void DatasetArray::Remove(Dataset *dataset)
 {
-    SAFE_UNREF(dataset);
-    DatasetArrayBase::Remove(dataset);
+    RemoveAt(Index(dataset));
 }
 
 void DatasetArray::RemoveAt(size_t index, size_t count)
